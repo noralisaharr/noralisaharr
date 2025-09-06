@@ -5,5 +5,5 @@ I'm a **Computer Science and English** major at **Northeastern University**. Iâ€
 ---
 
 ## Let's Connect!
-* LinkedIn: [(linkedin.com/in/nora-harr/)]
+* LinkedIn: [LinkedIn] (https://www.linkedin.com/in/nora-harr/)
 * Email: harr.n@northeastern.edu
